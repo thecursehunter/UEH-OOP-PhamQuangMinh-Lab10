@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StudentList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Students>
+    <Student>
+      <Name>Minh</Name>
+      <Age>19</Age>
+    </Student>
+    <Student>
+      <Name>Duy</Name>
+      <Age>22</Age>
+    </Student>
+    <Student>
+      <Name>Danh</Name>
+      <Age>23</Age>
+    </Student>
+    <Student>
+      <Name>Trí</Name>
+      <Age>22</Age>
+    </Student>
+  </Students>
+</StudentList>
